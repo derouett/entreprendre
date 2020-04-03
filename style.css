@@ -1,0 +1,13 @@
+.jumbotron-hero
+{
+    height: 760px;
+  
+      background-image: url("lime.jpg");
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+}
+.img-fluid{
+	height: 120px;
+	width: auto;
+}
